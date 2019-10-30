@@ -1,0 +1,23 @@
+{
+  "name": "javascript_enzyme_test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enzyme_js_db_to_tree.js",
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "^2.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruevaughn/enzymne_quiz_javascript.git"
+  },
+  "author": "Chase Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruevaughn/enzymne_quiz_javascript/issues"
+  },
+  "homepage": "https://github.com/ruevaughn/enzymne_quiz_javascript#readme"
+}
