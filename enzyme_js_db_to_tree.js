@@ -107,5 +107,4 @@ let folders4 = [
 
 ];
 
-
 console.log(generateTree(folders4));
